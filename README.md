@@ -49,7 +49,6 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 ## Standardized text fields:
 ### Trimmed spaces with TRIM()
-
 <img width="321" height="72" alt="image" src="https://github.com/user-attachments/assets/ec962f9a-c4d1-4789-93f7-145b3ba1ffad" />
 
 
@@ -62,11 +61,12 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 
-<img width="293" height="239" alt="Στιγμιότυπο οθόνης 2025-10-08 122119" src="https://github.com/user-attachments/assets/24204a5f-7ad0-4e94-a298-36f3d7b482ef" />
 
 
 
 
 
+
+<img width="293" height="239" alt="Στιγμιότυπο οθόνης 2025-10-08 122119" src="https://github.com/user-attachments/assets/e689ccf0-c241-4f15-b940-4e527c01fff5" />
 
 
