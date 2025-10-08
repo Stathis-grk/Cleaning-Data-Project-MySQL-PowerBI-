@@ -105,5 +105,67 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 
-## Dropped unnecessary columns (e.g. temporary row_num field).
+## Dropped unnecessary columns (e.g. temporary num_row field).
 <img width="251" height="83" alt="Στιγμιότυπο οθόνης 2025-10-08 132005" src="https://github.com/user-attachments/assets/1979b547-807c-4414-aa92-42428e7d15c5" />
+
+
+
+
+
+
+
+## ✅ Result A clean, consistent, and analysis-ready dataset stored in the final table staging2.
+<img width="823" height="363" alt="image" src="https://github.com/user-attachments/assets/eab4eac7-bc98-4776-993b-f1023fb7c296" />
+
+
+
+
+
+
+
+
+
+
+
+
+# 📊 Part 2 – Visualization in Power BI
+## 🎯 Objective
+To create an interactive Power BI dashboard that presents key financial metrics and customer behavior insights derived from the cleaned MySQL data.
+
+## 🔗 Data Connection
+The Power BI report was directly connected to the cleaned MySQL database (staging_2 table) using the MySQL ODBC connector.
+
+## 📈 Dashboard Features
+<img width="1121" height="732" alt="Στιγμιότυπο οθόνης 2025-10-07 134145" src="https://github.com/user-attachments/assets/56a08353-a58f-4abf-9804-0a68a8746b41" />
+
+
+
+
+
+
+
+
+
+## Main KPIs
+1) Total Transaction Amount
+2) Number of Unique Customers
+
+## Visuals
+#### Line chart: Payment methods over time
+#### Pie chart: Transaction amount distribution by merchants
+#### Bar chart: Transaction amount by country
+#### Card visuals: Total amount & customer count
+#### Interactive filters: By country, payment method, transaction status
+#### Data table: Detailed transaction view
+
+## 🌍 Insights
+1) Italy and the USA show the highest transaction volumes.
+2) Credit cards dominate as the main payment method.
+
+## Key Skills Demonstrated
+SQL Data Cleaning & Transformation
+Use of Window Functions (ROW_NUMBER, PARTITION BY)
+Handling Missing & Duplicate Data
+Data Standardization & Type Conversion
+Power BI Data Modeling & Dashboard Design
+End-to-End Data Analysis Workflow
