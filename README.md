@@ -164,8 +164,13 @@ The Power BI report was directly connected to the cleaned MySQL database (stagin
 
 ## Key Skills Demonstrated
 SQL Data Cleaning & Transformation
+
 Use of Window Functions (ROW_NUMBER, PARTITION BY)
+
 Handling Missing & Duplicate Data
+
 Data Standardization & Type Conversion
+
 Power BI Data Modeling & Dashboard Design
+
 End-to-End Data Analysis Workflow
