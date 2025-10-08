@@ -17,6 +17,16 @@ Through this project, I showcase how to transform raw and inconsistent data into
 <img width="500" height="68" alt="Στιγμιότυπο οθόνης 2025-10-08 120012" src="https://github.com/user-attachments/assets/1149733f-4a81-4d95-bc1b-f913c2cf772b" />
 
 
+
+
+
+
+
+
+
+
+
+
 ## Removed duplicates using ROW_NUMBER() and CTEs.
 <img width="678" height="658" alt="Στιγμιότυπο οθόνης 2025-10-08 121059" src="https://github.com/user-attachments/assets/9f6e7058-5571-4f31-8727-cabbe3e8514a" />
 
