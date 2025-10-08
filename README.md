@@ -53,6 +53,8 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 ### Unified variations like 'CREDIT_CARD', 'Credit Card', 'credit card'
+
+
 <img width="579" height="177" alt="Στιγμιότυπο οθόνης 2025-10-08 121738" src="https://github.com/user-attachments/assets/469b4470-467f-453d-bd28-70c6abcb9783" />
 
 
@@ -64,9 +66,5 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 
-
-
-
 <img width="293" height="239" alt="Στιγμιότυπο οθόνης 2025-10-08 122119" src="https://github.com/user-attachments/assets/e689ccf0-c241-4f15-b940-4e527c01fff5" />
-
 
