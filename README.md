@@ -133,7 +133,7 @@ Through this project, I showcase how to transform raw and inconsistent data into
 To create an interactive Power BI dashboard that presents key financial metrics and customer behavior insights derived from the cleaned MySQL data.
 
 ## 🔗 Data Connection
-The Power BI report was directly connected to the cleaned MySQL database (staging_2 table) using the MySQL ODBC connector.
+The Power BI report was directly connected to the cleaned MySQL database (staging2 table) using the MySQL ODBC connector.
 
 ## 📈 Dashboard Features
 <img width="1121" height="732" alt="Στιγμιότυπο οθόνης 2025-10-07 134145" src="https://github.com/user-attachments/assets/56a08353-a58f-4abf-9804-0a68a8746b41" />
