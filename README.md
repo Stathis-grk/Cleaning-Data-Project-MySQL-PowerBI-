@@ -68,3 +68,42 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 <img width="293" height="239" alt="Στιγμιότυπο οθόνης 2025-10-08 122119" src="https://github.com/user-attachments/assets/e689ccf0-c241-4f15-b940-4e527c01fff5" />
 
+
+
+## Converted date formats with STR_TO_DATE() and updated the column to DATE type.
+<img width="455" height="276" alt="Στιγμιότυπο οθόνης 2025-10-08 123113" src="https://github.com/user-attachments/assets/552a62b1-ad79-4073-b830-dd9b0ba29dd4" />
+
+
+
+
+
+## Handled missing values:
+### Replaced empty payment methods by joining on other customer transactions
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/d479d720-6cc6-4743-8bad-d434dff604b7" />
+
+
+
+
+
+
+
+
+### Replaced null transaction amounts with the average transaction amount
+<img width="629" height="156" alt="Στιγμιότυπο οθόνης 2025-10-08 125957" src="https://github.com/user-attachments/assets/230db3b0-fcae-4f44-8e94-a1bfa59e1631" />
+
+
+
+
+
+
+### Set empty transaction statuses to 'Unknown'
+<img width="444" height="258" alt="Στιγμιότυπο οθόνης 2025-10-08 131944" src="https://github.com/user-attachments/assets/bdb8be1c-c666-4c2d-9db7-bd9d41ebc83f" />
+
+
+
+
+
+
+
+## Dropped unnecessary columns (e.g. temporary row_num field).
+<img width="251" height="83" alt="Στιγμιότυπο οθόνης 2025-10-08 132005" src="https://github.com/user-attachments/assets/1979b547-807c-4414-aa92-42428e7d15c5" />
