@@ -114,6 +114,17 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 
+## 🧾 Raw Dataset (Before Cleaning)
+<img width="818" height="342" alt="image" src="https://github.com/user-attachments/assets/413166fd-5903-4ec2-a4d8-327a67d61329" />
+
+
+
+
+
+
+
+
+
 ## ✅ Result A clean, consistent, and analysis-ready dataset stored in the final table staging2.
 <img width="823" height="363" alt="image" src="https://github.com/user-attachments/assets/eab4eac7-bc98-4776-993b-f1023fb7c296" />
 
