@@ -56,7 +56,7 @@ Through this project, I showcase how to transform raw and inconsistent data into
 
 
 
-<<img width="846" height="233" alt="image" src="https://github.com/user-attachments/assets/0e4d0dbe-0a4e-4ed7-97b3-86aa48b433c8" />
+<img width="850" height="225" alt="image" src="https://github.com/user-attachments/assets/754b37d9-c712-4728-b8b7-7c5e5bb4ed41" />
 
 
 
