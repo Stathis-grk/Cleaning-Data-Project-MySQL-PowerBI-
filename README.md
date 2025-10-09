@@ -55,7 +55,10 @@ Through this project, I showcase how to transform raw and inconsistent data into
 ### Unified variations like 'CREDIT_CARD', 'Credit Card', 'credit card'
 
 
-<img width="579" height="177" alt="Στιγμιότυπο οθόνης 2025-10-08 121738" src="https://github.com/user-attachments/assets/469b4470-467f-453d-bd28-70c6abcb9783" />
+
+<<img width="846" height="233" alt="image" src="https://github.com/user-attachments/assets/0e4d0dbe-0a4e-4ed7-97b3-86aa48b433c8" />
+
+
 
 
 
